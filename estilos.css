@@ -1,0 +1,29 @@
+{
+	margin: 0;
+	padding: 0;
+}
+
+#container{
+	margin: auto;
+	 margin-top: 20px;
+	border: 1px solid #000;
+	width: 700px;
+	height: 100px;
+}
+
+
+#boton{
+ display: flex;
+ margin-left: 30%;
+ padding: 10px;
+ margin-top: 10px;
+ font-family: Arial;
+  font-size: 20px;
+  background: #808080;
+  
+}
+
+.li{
+	 margin-left: 40%;
+	 margin-top: 10px;
+}
